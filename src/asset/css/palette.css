@@ -1,0 +1,10 @@
+:root {
+  --samBlue: #2189ff;
+  --starYellow: #fdce30;
+  --textSub: #838383;
+}
+
+#root {
+  font-family: "NanumGothicBold";
+  background-color: #f7f7f7;
+}

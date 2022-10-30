@@ -1,0 +1,9 @@
+.hoverBackTextSub:hover {
+  border-color: var(--textSub) !important;
+  background-color: var(--textSub) !important;
+}
+
+.hoverBlueNegative:hover {
+  color: var(--samBlue) !important;
+  border: 1px solid var(--samBlue) !important;
+}
